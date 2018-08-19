@@ -1,0 +1,5 @@
+INSERT INTO `account` VALUES (1, '蓝枫', '088438', '13437520558', '[\"3\",\"4\",\"2\",\"7\",\"8\",\"5\",\"1\",\"9\"]', 8, '1', NULL, NULL, NULL, '4e996473e9de4a8d8b5490f3c03a5905_messenger_01.png', NULL, '男', '群主懒', '在家睡觉');
+INSERT INTO `account` VALUES (2, NULL, '205', NULL, '[\"7\",\"5\"]', 2, '12', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO `account` VALUES (3, NULL, '5', NULL, NULL, NULL, '15', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO `account` VALUES (4, NULL, '04', NULL, NULL, NULL, '11', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO `account` VALUES (5, NULL, '2', NULL, NULL, NULL, '14', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
